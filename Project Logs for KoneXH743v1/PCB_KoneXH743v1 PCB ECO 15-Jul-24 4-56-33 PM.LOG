@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=VOUT Pin=RFB1-1
+Removed Pin From Net: NetName=+5V2REG Pin=RFB1-2
+Removed Pin From Net: NetName=GND Pin=RFB2-1
+Removed Pin From Net: NetName=VOUT2 Pin=RFB3-1
+Removed Pin From Net: NetName=+9V Pin=RFB3-2
+Removed Pin From Net: NetName=GND Pin=RT2-1
+Removed Pin From Net: NetName=RT2 Pin=RT2-2
+Change Component Footprint: Designator=C16 Old Footprint=CAP_0402 New Footprint=CAP_0201
+Change Component Footprint: Designator=C20 Old Footprint=CAP_0402 New Footprint=CAP_0201
+Change Component Footprint: Designator=C25 Old Footprint=CAP_0402 New Footprint=CAP_0201
+Change Component Footprint: Designator=C29 Old Footprint=CAP_0402 New Footprint=CAP_0201
+Change Component Footprint: Designator=C14 Old Footprint=CAP_0603 New Footprint=CAP_0805
+Change Component Footprint: Designator=C15 Old Footprint=CAP_0603 New Footprint=CAP_0805
+Change Component Footprint: Designator=RFB1 Old Footprint=RES_0402 New Footprint=RES_0201
+Change Component Footprint: Designator=RFB2 Old Footprint=RES_0402 New Footprint=RES_0201
+Change Component Footprint: Designator=RFB3 Old Footprint=RES_0402 New Footprint=RES_0201
+Change Component Footprint: Designator=RFB4 Old Footprint=RES_0402 New Footprint=RES_0201
+Change Component Footprint: Designator=Rpg1 Old Footprint=RES_0402 New Footprint=RES_0201
+Change Component Footprint: Designator=Rpg2 Old Footprint=RES_0402 New Footprint=RES_0201
+Change Component Footprint: Designator=RT2 Old Footprint=RES_0402 New Footprint=RES_0201
+Change Component Comment : Designator=C16 Old Comment=10pF New Comment=10p
+Change Component Comment : Designator=C25 Old Comment=10pF New Comment=10p
+Change Component Comment : Designator=RT2 Old Comment=18.2k, 1% New Comment=18.2k
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Added Pin To Net: NetName=+5V2REG Pin=RFB1-1
+Added Pin To Net: NetName=VOUT Pin=RFB1-2
+Added Pin To Net: NetName=+9V Pin=RFB3-1
+Added Pin To Net: NetName=VOUT2 Pin=RFB3-2
+Added Pin To Net: NetName=RT2 Pin=RT2-1

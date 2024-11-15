@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=ELRS_TX Pin=L1-C4
+Removed Pin From Net: NetName=ELRS_RX Pin=L1-D4
+Removed Pin From Net: NetName=STATUS_LED2 Pin=L1-D10
+Removed Pin From Net: NetName=SPI1_CS_IMU2 Pin=L1-G3
+Removed Pin From Net: NetName=VTX_EN Pin=L1-G5
+Removed Pin From Net: NetName=M7 Pin=L1-J4
+Removed Pin From Net: NetName=M8 Pin=L1-K4
+Removed Member From Class: ClassName=Ex Member=P1
+Removed Member From Class: ClassName=Ex Member=P2
+Change Footprint: Footprint Not Found Connector_JST_SH_P6
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Added Pin To Net: NetName=VTX_EN Pin=L1-B3
+Added Pin To Net: NetName=STATUS_LED2 Pin=L1-B9
+Added Pin To Net: NetName=TX4 Pin=L1-G2
+Added Pin To Net: NetName=RX4 Pin=L1-H2
+Added Pin To Net: NetName=ELRS_TX Pin=L1-J2
+Added Pin To Net: NetName=ELRS_RX Pin=L1-K2
+Added Pin To Net: NetName=SPI1_CS_IMU2 Pin=L1-K4
+Change Net Name : Old Net Name=NetBMI_2 New Net Name=ASXX1
+Added Pin To Net: NetName=RX2_HD0 Pin=J2-4
+Added Pin To Net: NetName=RX2_HD0 Pin=L1-D4
+Added Net: Name=RX2_HD0
+Added Pin To Net: NetName=SPI1_EXTI0_IMU2 Pin=BMI-4
+Added Pin To Net: NetName=SPI1_EXTI0_IMU2 Pin=L1-J4
+Added Net: Name=SPI1_EXTI0_IMU2
+Added Pin To Net: NetName=SPI2_EXTI9_IMU1 Pin=ICM1-4
+Added Pin To Net: NetName=SPI2_EXTI9_IMU1 Pin=L1-H9
+Added Pin To Net: NetName=SPI2_EXTI9_IMU1 Pin=L1-K5
+Added Net: Name=SPI2_EXTI9_IMU1
+Added Pin To Net: NetName=TX2_HD0 Pin=J2-3
+Added Pin To Net: NetName=TX2_HD0 Pin=L1-C4
+Added Net: Name=TX2_HD0
+Added Rule: Name=Schematic Supply Nets_12
+Added Rule: Name=Schematic Supply Nets_13
+Added Rule: Name=Schematic Supply Nets_14
+Added Rule: Name=Schematic Supply Nets_15
+Added Rule: Name=Schematic Supply Nets_16
+Added Rule: Name=Schematic Supply Nets_17
+Added Rule: Name=Schematic Supply Nets_18
+Added Rule: Name=Schematic Supply Nets_19
+Added Rule: Name=Schematic Supply Nets_20
+Added Rule: Name=Schematic Supply Nets_21
+Added Rule: Name=Schematic Supply Nets_22
+Added Rule: Name=Schematic Supply Nets_23

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SPI2_CS_IMU1 Pin=L1-H8
+Removed Pin From Net: NetName=RX3 Pin=L1-K10
+Change Footprint: Footprint Not Found Connector_JST_SH_P6
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Added Pin To Net: NetName=SPI2_CS_IMU1 Pin=L1-K8
+Added Pin To Net: NetName=I2C4_SCL_EXT Pin=L1-K10

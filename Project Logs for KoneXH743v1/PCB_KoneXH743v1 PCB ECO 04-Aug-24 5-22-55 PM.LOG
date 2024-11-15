@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=+3V3ELRS_FILT Pin=C63-2
+Removed Pin From Net: NetName=+3V3ELRS_FILT Pin=IC1-11
+Added Component: Designator=C33(NFM18PC225B1A3D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NFM18PC225B1A3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nfm18pc225b1a3d/murata-manufacturing?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/NFM18PC225B1A3-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NFM18PC225B1A3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-NFM18PC225B1A3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/NFM18PC225B1A3D?qs=%2F%252BYoplLUB5j1f96c1CfWTw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3ELRS Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C33-4
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Added Pin To Net: NetName=+3V3ELRS_FILT2 Pin=C33-3
+Added Pin To Net: NetName=+3V3ELRS_FILT2 Pin=C63-2
+Added Pin To Net: NetName=+3V3ELRS_FILT2 Pin=IC1-11
+Added Net: Name=+3V3ELRS_FILT2
+Added Member To Class: ClassName=Pw Member=Component C33 NFM18PC225B1A3D
+Added Member To Class: ClassName=Pw Member=Component D4 RED
+Added Rule: Name=Schematic Supply Nets_108

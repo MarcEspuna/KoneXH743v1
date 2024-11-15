@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+5V Pin=1-1
+Removed Pin From Net: NetName=+3V3SENS Pin=1-5
+Removed Pin From Net: NetName=+5V Pin=2-1
+Removed Pin From Net: NetName=+3V3ELRS Pin=2-5
+Removed Pin From Net: NetName=+5V Pin=3-1
+Removed Pin From Net: NetName=+3V3_MCU Pin=3-5
+Added Pin To Net: NetName=+3V3SENS Pin=1-1
+Added Pin To Net: NetName=+5V Pin=1-4
+Added Pin To Net: NetName=+3V3ELRS Pin=2-1
+Added Pin To Net: NetName=+5V Pin=2-4
+Added Pin To Net: NetName=+3V3_MCU Pin=3-1
+Added Pin To Net: NetName=+5V Pin=3-4
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8

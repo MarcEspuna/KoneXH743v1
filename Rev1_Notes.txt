@@ -1,0 +1,31 @@
+- Fix issue with LEDs and barometer on Top layer. 
+	-	Remove top barometer. 
+
+- Fix footprint of 4R7 inductor
+- Maybe look at polygon pour again, remove ground pour where unneeded. 
+- Restyle pads, maybe add silk screen, remove unnecessary silk, maybe fix pad numbering on MOSFETs
+
+-----------------
+IMUs
+Fix vias on plane edges.
+
+Investigate PI filter on IMU. Maybe remove it and add high freq capacitors instead. No internal filtered trace.
+Look into resistors of SPRacing on IMUs
+Expand traces where it can be.
+Remove TX pad, roam for IMU traces
+
+------------------
+MAIN NOISE ISSUE!
+Move pads under ESC connector to top layer.
+Improve 9V regulator layout.
+Add bigger output capacitor and input as well
+Maybe even add a pi filter on the 9V output...
+------------------
+ELRs
+Think about the wifi thingy
+How to flash the device as well. Maybe a pullup on the enable pin on the ELRs regulator? 
+
+------------------
+Rework pads shapes and sizes. 
+Button holes to NC.
+Add one 5V to 5VREG and the other one USB powered.

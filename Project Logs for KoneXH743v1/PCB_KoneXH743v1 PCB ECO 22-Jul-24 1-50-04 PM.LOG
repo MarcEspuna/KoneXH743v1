@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C42 Old Footprint=CAP_0603 New Footprint=CAP_0402
+Change Footprint: Footprint Not Found Connector_JST_SH_P6
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8

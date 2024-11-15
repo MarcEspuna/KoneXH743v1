@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=ESP_BOOT Pin=S2-1
+Removed Pin From Net: NetName=GND Pin=S2-2
+Change Component Footprint: Designator=S2 Old Footprint=B3U-1000P New Footprint=G-Switch_GT-TC043B-H036-L1A
+Change Component Comment : Designator=S2 Old Comment=B3U-1000P New Comment=GT-TC043B-H036-L1A
+Change component parameters: Designator = "S2" ("S2"); Footprint = "B3U-1000P"; UniqueID = "\LWXOQBDK\UYGDIJJL" ("\LWXOQBDK\UYGDIJJL")
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=ESP_BOOT Pin=S2-2

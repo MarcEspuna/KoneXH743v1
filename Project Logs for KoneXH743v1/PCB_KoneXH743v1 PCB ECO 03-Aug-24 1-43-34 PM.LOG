@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=GND Pin=C51-1
+Removed Pin From Net: NetName=+3V3ELRS Pin=C51-2
+Removed Pin From Net: NetName=GND Pin=C63-1
+Removed Pin From Net: NetName=CS_FLASH Pin=R20-1
+Removed Member From Class: ClassName=RC Member=C51
+Change Component Footprint: Designator=C53 Old Footprint=CAP_0402 New Footprint=CAP_0201
+Change Component Footprint: Designator=C55 Old Footprint=CAP_0402 New Footprint=CAP_0201
+Change Component Footprint: Designator=C58 Old Footprint=CAP_0402 New Footprint=CAP_0201
+Change Component Footprint: Designator=C63 Old Footprint=CAP_0402 New Footprint=CAP_0201
+Change Component Footprint: Designator=R7 Old Footprint=RES_0201 New Footprint=RES_0402
+Change Component Footprint: Designator=R14 Old Footprint=RES_0201 New Footprint=RES_0402
+Change Component Footprint: Designator=R20 Old Footprint=RES_0402 New Footprint=RES_0201
+Change Component Comment : Designator=C52 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C54 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C53 Old Comment=1uF New Comment=100nF
+Change Component Comment : Designator=C55 Old Comment=1uF New Comment=100nF
+Change Component Comment : Designator=R13 Old Comment=10.0k New Comment=10k
+Change Component Comment : Designator=R20 Old Comment=10k New Comment=R0201
+Change Component Comment : Designator=X1 Old Comment=XTAL_2016 New Comment=26Mhz
+Change Component Comment : Designator=X2 Old Comment=XTAL_2016 New Comment=52Mhz
+Change component parameters: Designator = "J2" ("J2"); Footprint = "Connector_JST_SH_P6"; UniqueID = "\OVDNAPFN\HRACUTMU" ("\OVDNAPFN\HRACUTMU")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C3041141"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J5" ("J5"); Footprint = "HRS_U.FL-R-SMT(01)"; UniqueID = "\LWXOQBDK\DLLERNAI" ("\LWXOQBDK\DLLERNAI")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/U.FL-R-SMT(01)/Hirose+Electric+Co+Ltd/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Hirose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "U.FL-R-SMT(01)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/U.FL-R-SMT(01)/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/U.FL-R-SMT(01)/Hirose+Electric+Co+Ltd/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Added Rule: Name=Schematic Supply Nets_84
+Added Rule: Name=Schematic Supply Nets_85
+Added Rule: Name=Schematic Supply Nets_86
+Added Rule: Name=Schematic Supply Nets_87
+Added Rule: Name=Schematic Supply Nets_88
+Added Rule: Name=Schematic Supply Nets_89
+Added Rule: Name=Schematic Supply Nets_90
+Added Rule: Name=Schematic Supply Nets_91
+Added Rule: Name=Schematic Supply Nets_92
+Added Rule: Name=Schematic Supply Nets_93
+Added Rule: Name=Schematic Supply Nets_94
+Added Rule: Name=Schematic Supply Nets_95
+Added Rule: Name=Schematic Width Constraint

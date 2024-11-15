@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=RX4 Pin=L1-D8
+Removed Pin From Net: NetName=TX4 Pin=L1-E8
+Change Footprint: Footprint Not Found Connector_JST_SH_P6
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8

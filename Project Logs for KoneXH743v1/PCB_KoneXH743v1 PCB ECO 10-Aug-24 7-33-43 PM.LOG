@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=BOOT0 Pin=S1-2
+Removed Pin From Net: NetName=ESP_BOOT Pin=S2-2
+Change Component Footprint: Designator=S1 Old Footprint=G-Switch_GT-TC043B-H036-L1A New Footprint=EVPAKE31A
+Change Component Footprint: Designator=S2 Old Footprint=G-Switch_GT-TC043B-H036-L1A New Footprint=EVPAKE31A
+Change Component Comment : Designator=S1 Old Comment=GT-TC043B-H036-L1A New Comment=EVPAKE31A
+Change Component Comment : Designator=S2 Old Comment=GT-TC043B-H036-L1A New Comment=EVPAKE31A
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=BOOT0 Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=GND Pin=S1-5
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=ESP_BOOT Pin=S2-3
+Added Pin To Net: NetName=GND Pin=S2-4
+Added Pin To Net: NetName=GND Pin=S2-5

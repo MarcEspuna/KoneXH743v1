@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=C67-1
+Removed Pin From Net: NetName=+3V3SENS_FILT Pin=C67-2
+Removed Member From Class: ClassName=Pw Member=C67
+Change Component Footprint: Designator=C40 Old Footprint=CAP_0603 New Footprint=CAP_0805
+Change Component Comment : Designator=C40 Old Comment=47uF New Comment=100uF
+Added Pin To Net: NetName=+3V3SENS_FILT Pin=C40-2
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Add Pin To Net: Unknown Pin: Pin P8-1

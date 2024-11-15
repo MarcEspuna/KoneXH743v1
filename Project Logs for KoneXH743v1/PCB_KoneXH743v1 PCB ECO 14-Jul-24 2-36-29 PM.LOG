@@ -1,0 +1,8 @@
+Added Component: Designator=J2(Connector_JST_SH_P4)
+Added Pin To Net: NetName=+9V Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=TX2 Pin=J2-3
+Added Pin To Net: NetName=RX2 Pin=J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Added Member To Class: ClassName=Ex Member=Component J2 Connector_JST_SH_P4

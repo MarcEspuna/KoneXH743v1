@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=RX4 Pin=P17-1
+Removed Member From Class: ClassName=Ex Member=P17
+Change Component Footprint: Designator=J2 Old Footprint=Connector_JST_SH_P4 New Footprint=Connector_JST_SH_P6
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=RX4 Pin=J2-6
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8

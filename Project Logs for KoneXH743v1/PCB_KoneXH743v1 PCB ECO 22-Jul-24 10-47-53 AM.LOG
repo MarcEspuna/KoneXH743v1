@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=+3V3_MCU Pin=J4-4
+Removed Pin From Net: NetName=GND Pin=J4-6
+Removed Pin From Net: NetName=GND Pin=J4-10
+Removed Pin From Net: NetName=GND Pin=J4-11
+Removed Pin From Net: NetName=MOSI_FLASH Pin=L1-G10
+Removed Pin From Net: NetName=CS_FLASH Pin=L1-H8
+Removed Pin From Net: NetName=MISO_FLASH Pin=L1-H10
+Removed Pin From Net: NetName=CLK_FLASH Pin=L1-J8
+Removed Member From Class: ClassName=Ex Member=J4
+Change Footprint: Footprint Not Found Connector_JST_SH_P6
+Change Component Comment : Designator=J2 Old Comment=Connector_JST_SH_P4 New Comment=Connector_JST_SH_P6
+Change Component Comment : Designator=R17 Old Comment=R0201 New Comment=1k
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Added Pin To Net: NetName=CLK_FLASH Pin=L1-A3
+Added Pin To Net: NetName=CS_FLASH Pin=L1-C3
+Added Pin To Net: NetName=MISO_FLASH Pin=L1-D3
+Added Pin To Net: NetName=MOSI_FLASH Pin=L1-E3
+Added Pin To Net: NetName=SPI2_CLK_IMU1 Pin=ICM1-13
+Added Pin To Net: NetName=SPI2_CLK_IMU1 Pin=L1-J8
+Added Net: Name=SPI2_CLK_IMU1
+Added Pin To Net: NetName=SPI2_CS_IMU1 Pin=ICM1-12
+Added Pin To Net: NetName=SPI2_CS_IMU1 Pin=L1-H8
+Added Net: Name=SPI2_CS_IMU1
+Added Pin To Net: NetName=SPI2_EXTI10_IMU1 Pin=ICM1-4
+Added Pin To Net: NetName=SPI2_EXTI10_IMU1 Pin=L1-H9
+Added Net: Name=SPI2_EXTI10_IMU1
+Added Pin To Net: NetName=SPI2_MISO_IMU1 Pin=ICM1-1
+Added Pin To Net: NetName=SPI2_MISO_IMU1 Pin=L1-H10
+Added Net: Name=SPI2_MISO_IMU1
+Added Pin To Net: NetName=SPI2_MOSI_IMU1 Pin=ICM1-14
+Added Pin To Net: NetName=SPI2_MOSI_IMU1 Pin=L1-G10
+Added Net: Name=SPI2_MOSI_IMU1

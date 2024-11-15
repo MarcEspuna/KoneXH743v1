@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=R5 Old Footprint=RES_0201 New Footprint=RES_0402
+Change Component Footprint: Designator=R11 Old Footprint=RES_0201 New Footprint=RES_0402
+Change Component Comment : Designator=R6 Old Comment=6.8kO New Comment=6.8k
+Change Component Comment : Designator=R10 Old Comment=6.8kO New Comment=6.8k
+Change Component Comment : Designator=R5 Old Comment=100kO New Comment=100k
+Change Component Comment : Designator=R11 Old Comment=100kO New Comment=100k
+Change Component Comment : Designator=R20 Old Comment=R0201 New Comment=10k
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Added Pin To Net: NetName=CS_FLASH Pin=R20-1
+Added Member To Class: ClassName=RC Member=Component C53 100nF

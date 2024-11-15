@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=RT1 Old Footprint=RES_0402 New Footprint=RES_0201
+Change Component Comment : Designator=RT1 Old Comment=32.2k New Comment=33k
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6

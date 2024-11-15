@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=+3V3SENS_FILT Pin=BMI-8
+Removed Pin From Net: NetName=+3V3SENS_FILT Pin=C49-2
+Removed Pin From Net: NetName=+3V3SENS_FILT Pin=C69-2
+Removed Pin From Net: NetName=BUZZ Pin=P8-
+Removed Pin From Net: NetName=GND Pin=R35-1
+Removed Member From Class: ClassName=P1 Member=R35
+Change Component Footprint: Designator=L2 Old Footprint=XAL4030472MEC New Footprint=IND-SMD_L4.0-W4.0
+Change Component Footprint: Designator=L3 Old Footprint=XAL4030472MEC New Footprint=IND-SMD_L4.0-W4.0
+Added Component: Designator=R?(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=ICM1-7
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Add Pin To Net: Unknown Pin: Pin P8-1
+Added Pin To Net: NetName=+3V3SENS_FILT Pin=R?-2
+Added Pin To Net: NetName=NetBMI_8 Pin=BMI-8
+Added Pin To Net: NetName=NetBMI_8 Pin=C49-2
+Added Pin To Net: NetName=NetBMI_8 Pin=C69-2
+Added Pin To Net: NetName=NetBMI_8 Pin=R?-1
+Added Net: Name=NetBMI_8
+Added Member To Class: ClassName=P1 Member=Component R? 0

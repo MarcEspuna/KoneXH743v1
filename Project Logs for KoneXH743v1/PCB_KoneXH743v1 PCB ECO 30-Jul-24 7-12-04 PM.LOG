@@ -1,0 +1,33 @@
+Added Component: Designator=P1(PAD)
+Added Component: Designator=P2(PAD)
+Added Component: Designator=P16(PAD)
+Added Component: Designator=P17(PAD)
+Added Component: Designator=P18(PAD)
+Added Component: Designator=P21(PAD)
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=+5V Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P16-1
+Added Pin To Net: NetName=+5V Pin=P17-1
+Added Pin To Net: NetName=+5V Pin=P18-1
+Added Pin To Net: NetName=GND Pin=P21-1
+Added Member To Class: ClassName=RC Member=Component IC1 SX1280IMLTRT
+Added Member To Class: ClassName=Ex Member=Component P1 PAD
+Added Member To Class: ClassName=Ex Member=Component P2 PAD
+Added Member To Class: ClassName=Ex Member=Component P16 PAD
+Added Member To Class: ClassName=Ex Member=Component P17 PAD
+Added Member To Class: ClassName=Ex Member=Component P18 PAD
+Added Member To Class: ClassName=Ex Member=Component P21 PAD
+Added Rule: Name=Schematic Supply Nets_60
+Added Rule: Name=Schematic Supply Nets_61
+Added Rule: Name=Schematic Supply Nets_62
+Added Rule: Name=Schematic Supply Nets_63
+Added Rule: Name=Schematic Supply Nets_64
+Added Rule: Name=Schematic Supply Nets_65
+Added Rule: Name=Schematic Supply Nets_66
+Added Rule: Name=Schematic Supply Nets_67
+Added Rule: Name=Schematic Supply Nets_68
+Added Rule: Name=Schematic Supply Nets_69
+Added Rule: Name=Schematic Supply Nets_70
+Added Rule: Name=Schematic Supply Nets_71

@@ -1,0 +1,6 @@
+Added Component: Designator=P22(PAD)
+Added Component: Designator=P23(PAD)
+Added Pin To Net: NetName=+5V Pin=P22-1
+Added Pin To Net: NetName=GND Pin=P23-1
+Added Member To Class: ClassName=Ex Member=Component P22 PAD
+Added Member To Class: ClassName=Ex Member=Component P23 PAD

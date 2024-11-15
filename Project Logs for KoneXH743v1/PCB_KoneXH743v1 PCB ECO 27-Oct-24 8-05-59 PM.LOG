@@ -1,0 +1,7 @@
+Added Component: Designator=PCNANT1(PCB Antena Micro 2.4Ghz)
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Added Pin To Net: NetName=NetPCNANT1_1 Pin=PCNANT1-1
+Added Pin To Net: NetName=NetPCNANT1_1 Pin=U6-2
+Added Net: Name=NetPCNANT1_1
+Added Member To Class: ClassName=RC Member=Component PCNANT1 PCB Antenna 2.4Ghz Nano

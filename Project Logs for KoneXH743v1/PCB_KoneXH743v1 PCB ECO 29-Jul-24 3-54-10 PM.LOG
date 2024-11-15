@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=M4 Pin=L1-A4
+Removed Pin From Net: NetName=M2 Pin=L1-A5
+Removed Pin From Net: NetName=M3 Pin=L1-B4
+Removed Pin From Net: NetName=M1 Pin=L1-B5
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Added Pin To Net: NetName=M2 Pin=L1-A4
+Added Pin To Net: NetName=M3 Pin=L1-A5
+Added Pin To Net: NetName=M1 Pin=L1-B4
+Added Pin To Net: NetName=M4 Pin=L1-B5
+Added Rule: Name=Schematic Supply Nets_36
+Added Rule: Name=Schematic Supply Nets_37
+Added Rule: Name=Schematic Supply Nets_38
+Added Rule: Name=Schematic Supply Nets_39
+Added Rule: Name=Schematic Supply Nets_40
+Added Rule: Name=Schematic Supply Nets_41
+Added Rule: Name=Schematic Supply Nets_42
+Added Rule: Name=Schematic Supply Nets_43
+Added Rule: Name=Schematic Supply Nets_44
+Added Rule: Name=Schematic Supply Nets_45
+Added Rule: Name=Schematic Supply Nets_46
+Added Rule: Name=Schematic Supply Nets_47

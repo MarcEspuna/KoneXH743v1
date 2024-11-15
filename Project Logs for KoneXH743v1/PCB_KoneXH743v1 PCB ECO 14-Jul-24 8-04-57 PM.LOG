@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=VOUT Pin=C25-1
+Removed Pin From Net: NetName=INTVCC Pin=C28-2
+Removed Pin From Net: NetName=TR/SS Pin=C29-2
+Removed Pin From Net: NetName=BST Pin=Cbst2-1
+Removed Pin From Net: NetName=SW Pin=Cbst2-2
+Removed Pin From Net: NetName=SW Pin=L3-1
+Removed Pin From Net: NetName=VOUT Pin=RFB3-1
+Removed Pin From Net: NetName=VOUT Pin=RFB4-2
+Removed Pin From Net: NetName=PGOOD_5V Pin=Rpg2-2
+Removed Pin From Net: NetName=RT Pin=RT2-2
+Removed Pin From Net: NetName=BST Pin=U2-1
+Removed Pin From Net: NetName=SW Pin=U2-2
+Removed Pin From Net: NetName=INTVCC Pin=U2-3
+Removed Pin From Net: NetName=RT Pin=U2-4
+Removed Pin From Net: NetName=VOUT Pin=U2-6
+Removed Pin From Net: NetName=TR/SS Pin=U2-7
+Removed Pin From Net: NetName=PGOOD_5V Pin=U2-8
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Added Pin To Net: NetName=BST2 Pin=Cbst2-1
+Added Pin To Net: NetName=BST2 Pin=U2-1
+Added Net: Name=BST2
+Added Pin To Net: NetName=INTVCC2 Pin=C28-2
+Added Pin To Net: NetName=INTVCC2 Pin=U2-3
+Added Net: Name=INTVCC2
+Added Pin To Net: NetName=PGOOD_9V Pin=Rpg2-2
+Added Pin To Net: NetName=PGOOD_9V Pin=U2-8
+Added Net: Name=PGOOD_9V
+Added Pin To Net: NetName=RT2 Pin=RT2-2
+Added Pin To Net: NetName=RT2 Pin=U2-4
+Added Net: Name=RT2
+Added Pin To Net: NetName=SW2 Pin=Cbst2-2
+Added Pin To Net: NetName=SW2 Pin=L3-1
+Added Pin To Net: NetName=SW2 Pin=U2-2
+Added Net: Name=SW2
+Added Pin To Net: NetName=TR/SS2 Pin=C29-2
+Added Pin To Net: NetName=TR/SS2 Pin=U2-7
+Added Net: Name=TR/SS2
+Added Pin To Net: NetName=VOUT2 Pin=C25-1
+Added Pin To Net: NetName=VOUT2 Pin=RFB3-1
+Added Pin To Net: NetName=VOUT2 Pin=RFB4-2
+Added Pin To Net: NetName=VOUT2 Pin=U2-6
+Added Net: Name=VOUT2

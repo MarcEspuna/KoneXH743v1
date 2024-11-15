@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=S1 Old Footprint=B3U-1000P New Footprint=G-Switch_GT-TC043B-H036-L1A
+Change Component Comment : Designator=S1 Old Comment=B3U-1000P New Comment=GT-TC043B-H036-L1A
+Change component parameters: Designator = "S1" ("S1"); Footprint = "B3U-1000P"; UniqueID = "\GLHWWATN\FSQJBQPJ" ("\GLHWWATN\FSQJBQPJ")
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Added Member To Class: ClassName=Pw Member=Component C33 NFM18PC225B1A3D
+Added Member To Class: ClassName=Pw Member=Component D4 RED

@@ -1,0 +1,212 @@
+Removed Pin From Net: NetName=+3V3SENS Pin=1-1
+Removed Pin From Net: NetName=+5V Pin=2-3
+Removed Pin From Net: NetName=+3V3SENS Pin=C32-2
+Removed Pin From Net: NetName=+3V3SENS_FILT Pin=C40-2
+Removed Pin From Net: NetName=LED_STRIP Pin=L1-K6
+Removed Pin From Net: NetName=+3V3SENS Pin=L4-1
+Removed Pin From Net: NetName=+3V3SENS_FILT Pin=L4-2
+Removed Pin From Net: NetName=ELRS_STAT_LED Pin=LED3-K
+Removed Pin From Net: NetName=+5V Pin=P2-1
+Removed Pin From Net: NetName=BUZZ- Pin=P8-
+Removed Pin From Net: NetName=+5V Pin=P17-1
+Removed Pin From Net: NetName=+3V3SENS Pin=R17-1
+Removed Pin From Net: NetName=+3V3ELRS Pin=R24-1
+Removed Pin From Net: NetName=INTVCC Pin=U1-5
+Removed Pin From Net: NetName=INTVCC2 Pin=U2-5
+Change Component Footprint: Designator=C40 Old Footprint=CAP_0805 New Footprint=CAP_0603
+Change Component Comment : Designator=C40 Old Comment=100uF 4V New Comment=47uF
+Added Component: Designator=C46(CAP_0201)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C51(CAP_0603)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C65(CAP_0603)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C66(CAP_0603)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C67(CAP_0603)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C68(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C69(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3(DMP1200UFR47)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DMN1045UFR4-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dmn1045ufr4-7/diodes-incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com//assets/Datasheets/DMN1045UFR4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DMN1045UFR4-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-DMN1045UFR4-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN1045UFR4-7?qs=OVC8WVYZliTSRHekNl8zHg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES_0201)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R32(RES_0201)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R33(RES_0201)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R34(RES_0201)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R35(RES_0201)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R36(RES_0201)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3SENS_FILT Pin=1-1
+Added Pin To Net: NetName=+3V3SENS_FILT Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=+9V Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=+5V2REG Pin=C65-1
+Added Pin To Net: NetName=GND Pin=C65-2
+Added Pin To Net: NetName=+5V Pin=C66-1
+Added Pin To Net: NetName=GND Pin=C66-2
+Added Pin To Net: NetName=GND Pin=C67-1
+Added Pin To Net: NetName=+3V3SENS Pin=C67-2
+Added Pin To Net: NetName=+3V3_MCU Pin=C68-1
+Added Pin To Net: NetName=GND Pin=C68-2
+Added Pin To Net: NetName=GND Pin=C69-1
+Added Pin To Net: NetName=+3V3SENS Pin=C69-2
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Added Pin To Net: NetName=LED_STRIP Pin=L1-E9
+Added Pin To Net: NetName=+3V3SENS_FILT Pin=L4-1
+Added Pin To Net: NetName=+3V3SENS Pin=L4-2
+Added Pin To Net: NetName=ELRS_STAT_LED Pin=LED3-A
+Added Pin To Net: NetName=+5V2REG Pin=P2-1
+Add Pin To Net: Unknown Pin: Pin P8-1
+Added Pin To Net: NetName=+5V2REG Pin=P17-1
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=+3V3SENS_FILT Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R24-2
+Added Pin To Net: NetName=INTVCC Pin=R31-1
+Added Pin To Net: NetName=INTVCC2 Pin=R32-1
+Added Pin To Net: NetName=+5V Pin=R33-2
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=GND Pin=R35-1
+Added Pin To Net: NetName=GND Pin=R36-1
+Change Net Name : Old Net Name=+3V3SENS New Net Name=+3V3SENS_FILT
+Change Net Name : Old Net Name=+3V3SENS_FILT New Net Name=+3V3SENS
+Change Net Name : Old Net Name=VTX_EN New Net Name=9V_EN
+Added Pin To Net: NetName=ELRS_CE Pin=2-3
+Added Pin To Net: NetName=ELRS_CE Pin=C46-2
+Added Pin To Net: NetName=ELRS_CE Pin=Q3-1
+Added Pin To Net: NetName=ELRS_CE Pin=Q3-1
+Added Pin To Net: NetName=ELRS_CE Pin=R33-1
+Added Net: Name=ELRS_CE
+Added Pin To Net: NetName=ELRS_EN Pin=L1-G3
+Added Pin To Net: NetName=ELRS_EN Pin=Q3-2
+Added Pin To Net: NetName=ELRS_EN Pin=R34-2
+Added Net: Name=ELRS_EN
+Added Pin To Net: NetName=FSYNC_IMU1 Pin=ICM1-9
+Added Pin To Net: NetName=FSYNC_IMU1 Pin=L1-K5
+Added Net: Name=FSYNC_IMU1
+Added Pin To Net: NetName=NetICM1_7 Pin=ICM1-7
+Added Pin To Net: NetName=NetICM1_7 Pin=R35-2
+Added Net: Name=NetICM1_7
+Added Pin To Net: NetName=NetICM1_11 Pin=ICM1-11
+Added Pin To Net: NetName=NetICM1_11 Pin=R36-2
+Added Net: Name=NetICM1_11
+Added Pin To Net: NetName=NetLED3_K Pin=LED3-K
+Added Pin To Net: NetName=NetLED3_K Pin=R24-1
+Added Net: Name=NetLED3_K
+Added Pin To Net: NetName=NetR31_2 Pin=R31-2
+Added Pin To Net: NetName=NetR31_2 Pin=U1-5
+Added Net: Name=NetR31_2
+Added Pin To Net: NetName=NetR32_2 Pin=R32-2
+Added Pin To Net: NetName=NetR32_2 Pin=U2-5
+Added Net: Name=NetR32_2
+Added Pin To Net: NetName=SPI1_CLK_IMU1 Pin=ICM1-13
+Added Pin To Net: NetName=SPI1_CLK_IMU1 Pin=L1-H3
+Added Net: Name=SPI1_CLK_IMU1
+Added Pin To Net: NetName=SPI1_CS_IMU1 Pin=ICM1-12
+Added Pin To Net: NetName=SPI1_CS_IMU1 Pin=L1-K4
+Added Net: Name=SPI1_CS_IMU1
+Added Pin To Net: NetName=SPI1_EXTI0_IMU1 Pin=ICM1-4
+Added Pin To Net: NetName=SPI1_EXTI0_IMU1 Pin=L1-J4
+Added Net: Name=SPI1_EXTI0_IMU1
+Added Pin To Net: NetName=SPI1_MISO_IMU1 Pin=ICM1-1
+Added Pin To Net: NetName=SPI1_MISO_IMU1 Pin=L1-J3
+Added Net: Name=SPI1_MISO_IMU1
+Added Pin To Net: NetName=SPI1_MOSI_IMU1 Pin=ICM1-14
+Added Pin To Net: NetName=SPI1_MOSI_IMU1 Pin=L1-K3
+Added Net: Name=SPI1_MOSI_IMU1
+Added Pin To Net: NetName=SPI2_CLK_IMU2 Pin=BMI-13
+Added Pin To Net: NetName=SPI2_CLK_IMU2 Pin=L1-J8
+Added Net: Name=SPI2_CLK_IMU2
+Added Pin To Net: NetName=SPI2_CS_IMU2 Pin=BMI-12
+Added Pin To Net: NetName=SPI2_CS_IMU2 Pin=L1-K8
+Added Net: Name=SPI2_CS_IMU2
+Added Pin To Net: NetName=SPI2_EXTI13_IMU2 Pin=BMI-4
+Added Pin To Net: NetName=SPI2_EXTI13_IMU2 Pin=L1-K6
+Added Net: Name=SPI2_EXTI13_IMU2
+Added Pin To Net: NetName=SPI2_MISO_IMU2 Pin=BMI-1
+Added Pin To Net: NetName=SPI2_MISO_IMU2 Pin=L1-H10
+Added Net: Name=SPI2_MISO_IMU2
+Added Pin To Net: NetName=SPI2_MOSI_IMU2 Pin=BMI-14
+Added Pin To Net: NetName=SPI2_MOSI_IMU2 Pin=L1-G10
+Added Net: Name=SPI2_MOSI_IMU2
+Added Member To Class: ClassName=Pw Member=Component C46 100nF
+Added Member To Class: ClassName=Ex Member=Component C51 22uF
+Added Member To Class: ClassName=Ex Member=Component C65 47uF
+Added Member To Class: ClassName=Ex Member=Component C66 47uF
+Added Member To Class: ClassName=Pw Member=Component C67 47uF
+Added Member To Class: ClassName=P1 Member=Component C68 10uF
+Added Member To Class: ClassName=P1 Member=Component C69 2.2uF
+Added Member To Class: ClassName=Pw Member=Component Q3 DMN1045UFR4-7
+Added Member To Class: ClassName=Pw Member=Component R31 0
+Added Member To Class: ClassName=Pw Member=Component R32 0
+Added Member To Class: ClassName=Pw Member=Component R33 10k
+Added Member To Class: ClassName=Pw Member=Component R34 10k
+Added Member To Class: ClassName=P1 Member=Component R35 10k
+Added Member To Class: ClassName=P1 Member=Component R36 10k

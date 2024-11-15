@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C33-1
+Removed Pin From Net: NetName=+3V3SENS Pin=C33-2
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=+3V3_MCU Pin=C34-2
+Removed Pin From Net: NetName=GND Pin=C39-1
+Removed Pin From Net: NetName=+3V3ELRS Pin=C39-2
+Removed Member From Class: ClassName=Pw Member=C33
+Removed Member From Class: ClassName=Pw Member=C34
+Removed Member From Class: ClassName=Pw Member=C39
+Change Footprint: Footprint Not Found Connector_JST_SH_P6
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
